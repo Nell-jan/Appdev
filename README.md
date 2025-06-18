@@ -65,7 +65,7 @@ License
 The Food Pantry Stock Tracker is open-sourced software licensed under the MIT license.
 
 
-[README.md](https://github.com/user-attachments/files/20787879/README.md)
+[README.md][(https://github.com/Nell-jan/Appdev/blob/main/README.md?plain=1)]
 plication framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
